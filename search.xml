@@ -3,10 +3,10 @@
   
     
     <entry>
-      <title></title>
+      <title>Eslint规则应用</title>
       <link href="/2018/09/04/ESLint%E9%85%8D%E7%BD%AE/"/>
       <url>/2018/09/04/ESLint%E9%85%8D%E7%BD%AE/</url>
-      <content type="html"><![CDATA[<hr><h2 id="title-Eslint规则应用"><a href="#title-Eslint规则应用" class="headerlink" title="title: Eslint规则应用"></a>title: Eslint规则应用</h2><blockquote><p>对于eslint报错，简单是使用ctrl+s便可自动修复，不必没个错误逐个修改    </p><ul><li><a href="https://blog.csdn.net/u012878818/article/details/79524991" target="_blank" rel="noopener">webstrom 配置eslint 自动修复错误</a></li><li><a href="http://www.ptbird.cn/vscode-autosave-eslint-support-vue.html" target="_blank" rel="noopener">vscode代码保存时自动格式化成ESLint风格</a></li></ul></blockquote><h5 id="在修改eslint规则文件后，执行-npm-run-lint-后可修复eslint错误提示，lint命令使用了-fix参数，命令有局限性，可能不会修复全部错误，具体可修复的查看ESLint-带小扳手的就是可修复项目"><a href="#在修改eslint规则文件后，执行-npm-run-lint-后可修复eslint错误提示，lint命令使用了-fix参数，命令有局限性，可能不会修复全部错误，具体可修复的查看ESLint-带小扳手的就是可修复项目" class="headerlink" title="在修改eslint规则文件后，执行 npm run lint 后可修复eslint错误提示，lint命令使用了--fix参数，命令有局限性，可能不会修复全部错误，具体可修复的查看ESLint 带小扳手的就是可修复项目"></a>在修改eslint规则文件后，执行 <code>npm run lint</code> 后可修复eslint错误提示，<code>lint</code>命令使用了<code>--fix</code>参数，命令有局限性，可能不会修复全部错误，具体可修复的查看<a href="https://eslint.org/docs/rules/" target="_blank" rel="noopener">ESLint</a> 带小扳手的就是可修复项目</h5>]]></content>
+      <content type="html"><![CDATA[<blockquote><p>对于eslint报错，简单是使用ctrl+s便可自动修复，不必没个错误逐个修改    </p><ul><li><a href="https://blog.csdn.net/u012878818/article/details/79524991" target="_blank" rel="noopener">webstrom 配置eslint 自动修复错误</a></li><li><a href="http://www.ptbird.cn/vscode-autosave-eslint-support-vue.html" target="_blank" rel="noopener">vscode代码保存时自动格式化成ESLint风格</a></li></ul></blockquote><p>在修改eslint规则文件后，执行 <code>npm run lint</code> 后可修复eslint错误提示，<code>lint</code>命令使用了<code>--fix</code>参数，命令有局限性，可能不会修复全部错误，具体可修复的查看<a href="https://eslint.org/docs/rules/" target="_blank" rel="noopener">ESLint</a> 带小扳手的就是可修复项目</p>]]></content>
       
       
     </entry>
